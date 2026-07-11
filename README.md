@@ -105,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/aadiur/Coding-Challenge/tree/master/0005-longest-palindromic-substring) |
 | [0008-string-to-integer-atoi](https://github.com/aadiur/Coding-Challenge/tree/master/0008-string-to-integer-atoi) |
+| [1021-remove-outermost-parentheses](https://github.com/aadiur/Coding-Challenge/tree/master/1021-remove-outermost-parentheses) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -178,4 +179,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/aadiur/Coding-Challenge/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+## Stack
+|  |
+| ------- |
+| [1021-remove-outermost-parentheses](https://github.com/aadiur/Coding-Challenge/tree/master/1021-remove-outermost-parentheses) |
 <!---LeetCode Topics End-->
