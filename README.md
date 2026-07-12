@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/aadiur/Coding-Challenge/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/aadiur/Coding-Challenge/tree/master/0004-median-of-two-sorted-arrays) |
+| [0014-longest-common-prefix](https://github.com/aadiur/Coding-Challenge/tree/master/0014-longest-common-prefix) |
 | [0015-3sum](https://github.com/aadiur/Coding-Challenge/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/aadiur/Coding-Challenge/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/aadiur/Coding-Challenge/tree/master/0018-4sum) |
@@ -106,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/aadiur/Coding-Challenge/tree/master/0005-longest-palindromic-substring) |
 | [0008-string-to-integer-atoi](https://github.com/aadiur/Coding-Challenge/tree/master/0008-string-to-integer-atoi) |
+| [0014-longest-common-prefix](https://github.com/aadiur/Coding-Challenge/tree/master/0014-longest-common-prefix) |
 | [0151-reverse-words-in-a-string](https://github.com/aadiur/Coding-Challenge/tree/master/0151-reverse-words-in-a-string) |
 | [1021-remove-outermost-parentheses](https://github.com/aadiur/Coding-Challenge/tree/master/1021-remove-outermost-parentheses) |
 | [1903-largest-odd-number-in-string](https://github.com/aadiur/Coding-Challenge/tree/master/1903-largest-odd-number-in-string) |
@@ -188,4 +190,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1021-remove-outermost-parentheses](https://github.com/aadiur/Coding-Challenge/tree/master/1021-remove-outermost-parentheses) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/aadiur/Coding-Challenge/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
