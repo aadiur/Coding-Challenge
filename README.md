@@ -108,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0008-string-to-integer-atoi](https://github.com/aadiur/Coding-Challenge/tree/master/0008-string-to-integer-atoi) |
 | [0151-reverse-words-in-a-string](https://github.com/aadiur/Coding-Challenge/tree/master/0151-reverse-words-in-a-string) |
 | [1021-remove-outermost-parentheses](https://github.com/aadiur/Coding-Challenge/tree/master/1021-remove-outermost-parentheses) |
+| [1903-largest-odd-number-in-string](https://github.com/aadiur/Coding-Challenge/tree/master/1903-largest-odd-number-in-string) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -125,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/aadiur/Coding-Challenge/tree/master/0048-rotate-image) |
 | [0189-rotate-array](https://github.com/aadiur/Coding-Challenge/tree/master/0189-rotate-array) |
 | [0509-fibonacci-number](https://github.com/aadiur/Coding-Challenge/tree/master/0509-fibonacci-number) |
+| [1903-largest-odd-number-in-string](https://github.com/aadiur/Coding-Challenge/tree/master/1903-largest-odd-number-in-string) |
 ## Recursion
 |  |
 | ------- |
@@ -177,6 +179,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0410-split-array-largest-sum](https://github.com/aadiur/Coding-Challenge/tree/master/0410-split-array-largest-sum) |
+| [1903-largest-odd-number-in-string](https://github.com/aadiur/Coding-Challenge/tree/master/1903-largest-odd-number-in-string) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
