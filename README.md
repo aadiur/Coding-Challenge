@@ -129,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/aadiur/Coding-Challenge/tree/master/0002-add-two-numbers) |
 | [0009-palindrome-number](https://github.com/aadiur/Coding-Challenge/tree/master/0009-palindrome-number) |
 | [0048-rotate-image](https://github.com/aadiur/Coding-Challenge/tree/master/0048-rotate-image) |
 | [0189-rotate-array](https://github.com/aadiur/Coding-Challenge/tree/master/0189-rotate-array) |
@@ -137,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/aadiur/Coding-Challenge/tree/master/0002-add-two-numbers) |
 | [0509-fibonacci-number](https://github.com/aadiur/Coding-Challenge/tree/master/0509-fibonacci-number) |
 ## Memoization
 |  |
@@ -202,6 +204,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/aadiur/Coding-Challenge/tree/master/0002-add-two-numbers) |
 | [0141-linked-list-cycle](https://github.com/aadiur/Coding-Challenge/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/aadiur/Coding-Challenge/tree/master/0142-linked-list-cycle-ii) |
 | [0237-delete-node-in-a-linked-list](https://github.com/aadiur/Coding-Challenge/tree/master/0237-delete-node-in-a-linked-list) |
