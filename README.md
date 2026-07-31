@@ -1,5 +1,25 @@
 # Coding-Challenge
 A collection of LeetCode questions to ace the coding interview! - Created using [LeetHub v2](https://github.com/arunbhardwaj/LeetHub-2.0)
+# Coding-Challenge
+
+A collection of LeetCode questions to ace the coding interview! — solved consistently, tracked automatically via [LeetHub v2](https://github.com/arunbhardwaj/LeetHub-2.0).
+
+<div align="center">
+
+![Total Solved](https://img.shields.io/badge/Total%20Solved-61-6d28d9?style=for-the-badge)
+![Easy](https://img.shields.io/badge/Easy-21-00b8a3?style=for-the-badge)
+![Medium](https://img.shields.io/badge/Medium-38-ffc01e?style=for-the-badge)
+![Hard](https://img.shields.io/badge/Hard-2-ff375f?style=for-the-badge)
+
+<br/>
+
+<img src="https://quickchart.io/chart?c=%7B%22type%22%3A+%22pie%22%2C+%22data%22%3A+%7B%22labels%22%3A+%5B%22Easy%22%2C+%22Medium%22%2C+%22Hard%22%5D%2C+%22datasets%22%3A+%5B%7B%22data%22%3A+%5B21%2C+38%2C+2%5D%2C+%22backgroundColor%22%3A+%5B%22%2300b8a3%22%2C+%22%23ffc01e%22%2C+%22%23ff375f%22%5D%7D%5D%7D%2C+%22options%22%3A+%7B%22plugins%22%3A+%7B%22legend%22%3A+%7B%22labels%22%3A+%7B%22fontColor%22%3A+%22%23e9d5ff%22%2C+%22fontSize%22%3A+14%7D%7D%2C+%22title%22%3A+%7B%22display%22%3A+true%2C+%22text%22%3A+%22Difficulty+Breakdown%22%2C+%22fontColor%22%3A+%22%23e9d5ff%22%2C+%22fontSize%22%3A+16%7D%7D%7D%7D&w=420&h=300&bkg=%230d0221&format=png" width="45%"/>
+<img src="https://quickchart.io/chart?c=%7B%22type%22%3A+%22horizontalBar%22%2C+%22data%22%3A+%7B%22labels%22%3A+%5B%22Array%22%2C+%22Binary+Search%22%2C+%22Two+Pointers%22%2C+%22Linked+List%22%2C+%22Sorting%22%2C+%22Hash+Table%22%2C+%22Dynamic+Programming%22%2C+%22String%22%2C+%22Math%22%2C+%22Matrix%22%5D%2C+%22datasets%22%3A+%5B%7B%22label%22%3A+%22Problems%22%2C+%22data%22%3A+%5B44%2C+19%2C+18%2C+11%2C+9%2C+7%2C+7%2C+6%2C+6%2C+6%5D%2C+%22backgroundColor%22%3A+%22%238b5cf6%22%7D%5D%7D%2C+%22options%22%3A+%7B%22legend%22%3A+%7B%22display%22%3A+false%7D%2C+%22title%22%3A+%7B%22display%22%3A+true%2C+%22text%22%3A+%22Topic-wise+Distribution%22%2C+%22fontColor%22%3A+%22%23e9d5ff%22%2C+%22fontSize%22%3A+16%7D%2C+%22scales%22%3A+%7B%22xAxes%22%3A+%5B%7B%22ticks%22%3A+%7B%22fontColor%22%3A+%22%23e9d5ff%22%2C+%22beginAtZero%22%3A+true%7D%2C+%22gridLines%22%3A+%7B%22color%22%3A+%22%23333%22%7D%7D%5D%2C+%22yAxes%22%3A+%5B%7B%22ticks%22%3A+%7B%22fontColor%22%3A+%22%23e9d5ff%22%7D%2C+%22gridLines%22%3A+%7B%22color%22%3A+%22%23333%22%7D%7D%5D%7D%7D%7D&w=480&h=360&bkg=%230d0221&format=png" width="50%"/>
+
+</div>
+
+---
+
 
 <!---LeetCode Topics Start-->
 # LeetCode Topics
