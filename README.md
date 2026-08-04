@@ -138,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! — solved consi
 | [0005-longest-palindromic-substring](https://github.com/aadiur/Coding-Challenge/tree/master/0005-longest-palindromic-substring) |
 | [0008-string-to-integer-atoi](https://github.com/aadiur/Coding-Challenge/tree/master/0008-string-to-integer-atoi) |
 | [0014-longest-common-prefix](https://github.com/aadiur/Coding-Challenge/tree/master/0014-longest-common-prefix) |
+| [0020-valid-parentheses](https://github.com/aadiur/Coding-Challenge/tree/master/0020-valid-parentheses) |
 | [0151-reverse-words-in-a-string](https://github.com/aadiur/Coding-Challenge/tree/master/0151-reverse-words-in-a-string) |
 | [1021-remove-outermost-parentheses](https://github.com/aadiur/Coding-Challenge/tree/master/1021-remove-outermost-parentheses) |
 | [1903-largest-odd-number-in-string](https://github.com/aadiur/Coding-Challenge/tree/master/1903-largest-odd-number-in-string) |
@@ -223,6 +224,7 @@ A collection of LeetCode questions to ace the coding interview! — solved consi
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/aadiur/Coding-Challenge/tree/master/0020-valid-parentheses) |
 | [0234-palindrome-linked-list](https://github.com/aadiur/Coding-Challenge/tree/master/0234-palindrome-linked-list) |
 | [1021-remove-outermost-parentheses](https://github.com/aadiur/Coding-Challenge/tree/master/1021-remove-outermost-parentheses) |
 ## Trie
@@ -243,4 +245,8 @@ A collection of LeetCode questions to ace the coding interview! — solved consi
 | [0328-odd-even-linked-list](https://github.com/aadiur/Coding-Challenge/tree/master/0328-odd-even-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/aadiur/Coding-Challenge/tree/master/0876-middle-of-the-linked-list) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/aadiur/Coding-Challenge/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/aadiur/Coding-Challenge/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
