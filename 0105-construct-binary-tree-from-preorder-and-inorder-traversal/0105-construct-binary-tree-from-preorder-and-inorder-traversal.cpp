@@ -27,7 +27,7 @@ public:
         TreeNode* root=new TreeNode(preorder[pre_s]);
         int numL=mpp[root->val]-in_s;
         root->left=build(preorder,pre_s+1,pre_s+numL,inorder,in_s,mpp[root->val]-1,mpp);
-        root->right=build(preorder,pre_s+numL+1,pre_end,inorder,mpp[root->val]+1,pre_end,mpp);
+        root->right=build(preorder,pre_s+numL+1,pre_end,inorder,mpp[root->val]+1,in_end,mpp);
 
         return root;
 
